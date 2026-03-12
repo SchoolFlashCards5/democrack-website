@@ -1,8 +1,5 @@
 # democrack-website
 
-its littearlly just the website for democrack
-idk what to tell you bro
+About page and main website of democrack!
 
-main repo for code:
-
-https://github.com/SchoolFlashCards5/democrack-.
+Democrack-website lets you download project zip, view source code via the github repository, and get a little reading on what the project includes.
