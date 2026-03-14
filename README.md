@@ -1,5 +1,5 @@
-# democrack-website
+This is the old repo.
 
-About page and main website of democrack!
+The new repo can be found at:
 
-Democrack-website lets you download project zip, view source code via the github repository, and get a little reading on what the project includes.
+https://github.com/TheDemoProject/democrack-website
